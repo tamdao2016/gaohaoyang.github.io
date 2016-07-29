@@ -22,8 +22,7 @@ icon: heart
 * 知乎：[丁檀](https://www.zhihu.com/people/ding-tan-68)
 * GitHub：[tamdao2016](https://github.com/tamdao2016)
 * email：tamdao@qq.com
-* [Facebook]()
-* [Twitter]()
+
 
 
 
