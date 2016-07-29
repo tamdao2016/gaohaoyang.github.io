@@ -17,11 +17,11 @@ icon: heart
 
 ## 联系我
 
+* 微博：[丁檀](http://weibo.com/dingtan2014)
+* 豆瓣：[丁檀](https://www.douban.com/people/dingtan/)
+* 知乎：[丁檀](https://www.zhihu.com/people/ding-tan-68)
 * GitHub：[tamdao2016](https://github.com/tamdao2016)
 * email：tamdao@qq.com
-* [Weibo](http://weibo.com/dingtan2014)
-* [豆瓣](https://www.douban.com/people/dingtan/)
-* [知乎](https://www.zhihu.com/people/ding-tan-68)
 * [Facebook]()
 * [Twitter]()
 
