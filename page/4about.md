@@ -10,6 +10,8 @@ icon: heart
 
 ## 关于我
 
+丁檀（tamdao），
+
 读书、写字、跑步，尽力化繁为简。
 
 2016年夏天苦热，偶然来的博客，那就物尽其用罢。
@@ -24,7 +26,7 @@ icon: heart
 * 豆瓣：[丁檀](https://www.douban.com/people/dingtan/)
 * 知乎：[丁檀](https://www.zhihu.com/people/ding-tan-68)
 * GitHub：[tamdao2016](https://github.com/tamdao2016)
-* email：tamdao@qq.com
+* email：<tamdao@qq.com>
 
 
 
